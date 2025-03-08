@@ -1,0 +1,6 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+uritemplate
+inflection
+PyYAML
